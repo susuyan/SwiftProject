@@ -1,0 +1,6 @@
+framework module Pods_yulebabyUITests {
+  umbrella header "Pods-yulebabyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
